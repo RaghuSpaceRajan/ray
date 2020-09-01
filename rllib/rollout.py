@@ -4,6 +4,7 @@ import argparse
 import collections
 import copy
 import gym
+import gym.wrappers
 import json
 import os
 from pathlib import Path
